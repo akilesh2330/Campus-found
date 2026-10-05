@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Campus Found interlinked finder mark">
+  <rect width="512" height="512" fill="#242246"/>
+  <g transform="rotate(-38 256 256)">
+    <ellipse cx="208" cy="256" rx="88" ry="130" fill="none" stroke="#FFFFFF" stroke-width="48"/>
+  </g>
+  <g transform="rotate(38 256 256)">
+    <ellipse cx="304" cy="256" rx="88" ry="130" fill="none" stroke="#69B7FF" stroke-width="48"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+{
+  "name": "Campus Found — Lost & Found",
+  "short_name": "Campus Found",
+  "description": "A trusted campus lost and found platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F6F7FB",
+  "theme_color": "#242246",
+  "icons": [{ "src": "/favicon.png", "sizes": "512x512", "type": "image/png" }]
+}

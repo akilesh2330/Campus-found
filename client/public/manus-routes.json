@@ -1,0 +1,24 @@
+{
+  "routes": [
+    { "path": "/", "title": "Home" },
+    { "path": "/lost", "title": "Lost items" },
+    { "path": "/found", "title": "Found items" },
+    { "path": "/search", "title": "Search" },
+    { "path": "/how-it-works", "title": "How it works" },
+    { "path": "/about", "title": "About" },
+    { "path": "/items/:id", "title": "Item details" },
+    { "path": "/login", "title": "Login" },
+    { "path": "/register", "title": "Register" },
+    { "path": "/dashboard", "title": "User dashboard" },
+    { "path": "/dashboard/reports", "title": "My reports" },
+    { "path": "/dashboard/claims", "title": "My claims" },
+    { "path": "/dashboard/notifications", "title": "Notifications" },
+    { "path": "/profile", "title": "Profile" },
+    { "path": "/report/lost", "title": "Report a lost item" },
+    { "path": "/report/found", "title": "Report a found item" },
+    { "path": "/admin", "title": "Admin dashboard" },
+    { "path": "/admin/items", "title": "Manage reports" },
+    { "path": "/admin/claims", "title": "Review claims" },
+    { "path": "/admin/users", "title": "Manage users" }
+  ]
+}
